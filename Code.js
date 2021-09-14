@@ -1,8 +1,8 @@
-const matiasGarrido = {
-  Lenguajes de Programacion: [Javascript],
-  Desarrollo Frontend: [React, HTML, CSS, Bootstrap, Redux],
-  Desarrollo Backend: [Node],
-  Base de datos: [MySQL, PostgresSQL],
-  Software: [Ai, Ps, Invision, Postman]
-  Otros: [Git]
-}
+const alanGiavino = () => {
+  Languages = ["Javascript"];
+  Frontend = ["React", "HTML", "CSS", "Bootstrap", "Redux"];
+  Backend = ["Node"];
+  DataBases = ["MySQL", "PostgresSQL"];
+  Software = ["Ai", "Ps", "Postman"];
+  Otros= ["Git"];
+};

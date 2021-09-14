@@ -5,7 +5,7 @@
 ## 📖 What am I studying? 
 - Web developer Full-Stack in Soy Henry!
 ## Stack
-![](https://user-images.githubusercontent.com/81318237/130743843-cf775766-e8a3-469c-a831-616739fb332d.jpg)
+![](https://github.com/AlanGiavino/Alan-Giavino/blob/main/Code.jpg)
 - React, Redux, JavaScript, Node.js, PostgreSQL, sequelize, nmp, Git, GitHub, HTML, CSS, Express.js
 # Contact Me:
 ### 📧 Email:

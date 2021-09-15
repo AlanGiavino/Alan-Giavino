@@ -5,9 +5,11 @@
 ## 📖 What am I studying? 
 - Web developer Full-Stack in Soy Henry!
 <br>
+---
+<!-- markdownlint-enable MD033 -->
 
 ## Tech-Stack 📗
----
+
 ### Front-End
 
 <br>
@@ -31,11 +33,12 @@
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/sequelize-logo-vector.svg" width="50px" height="50px">
 </div>  
 
+---
+<!-- markdownlint-enable MD033 -->
  <br>
 
 ## Projects:
 
----
 <!-- markdownlint-enable MD033 -->
 -Dog App 🐕🦴 --> Full stack app consuming an api to show and create new dogs! [Click here!](https://github.com/AlanGiavino/PI-Dogs-FT14a)
 <br>
@@ -45,11 +48,11 @@
 
 -Breaking Bad Fan App ⭐🎞 --> Full stack app consuming an api to show characters from the TV serie ! [Click here!](https://github.com/AlanGiavino/RepasoPI-BreakingBad)
 
+---
+<!-- markdownlint-enable MD033 -->
 <br>
 
 ## Wish-List
----
-<!-- markdownlint-enable MD033 -->
 
 <div style={{ display:'flex' }}>
 <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" width="50px" height="50px">
@@ -57,6 +60,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="50px" height="50px">
 </div>
 
+---
+<!-- markdownlint-enable MD033 -->
 <br>
 
 # Contact Me:
